@@ -31,7 +31,7 @@ npm install
 
 - Add the following entries to your .env file:
 
-  ```bash
+```bash
 DATABASE_URL="your_connection_string_here"
 PORT=3000
 ```
