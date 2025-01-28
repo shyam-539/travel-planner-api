@@ -25,6 +25,11 @@ npm install
 ```
 
 ## Step 3: Create the .env File
+-   To use the .env file in your project, you'll need to install the dotenv package.
+
+```bash
+npm install dotenv
+```
 - The .env file is used to store environment variables securely.
 
 - Create a .env file in the root directory of your project.
